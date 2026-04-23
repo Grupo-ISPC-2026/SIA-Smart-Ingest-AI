@@ -2,7 +2,7 @@
 
 Este dataset fue construido para el **Proyecto Integrador 2026** de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial del ISPC.
 
-Contiene **500 registros** y **8 variables** que representan el flujo de recepción de mercadería en un quiosco, combinando datos reales de productos con datos logísticos simulados.
+El dataset consolida 500 registros y 8 variables que modelan el ciclo de vida de la mercadería en un punto de venta. Integra datos reales de catálogos minoristas con variables logísticas y operativas simuladas, diseñadas para validar métricas de asimetría de precios y la tasa de error en la ingesta de datos (Error OCR).
 
 > **Nota:** Este CSV es un extracto modificado para cumplir con los requisitos de la Evidencia 1 de Análisis de Datos. El dataset completo está disponible en [Kaggle](https://www.kaggle.com/siaispc/datasets-sia).
 
